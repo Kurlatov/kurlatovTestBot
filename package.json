@@ -1,0 +1,19 @@
+{
+  "name": "waifu_insult_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "0.54.0"
+  }
+}
