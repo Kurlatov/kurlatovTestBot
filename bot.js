@@ -12,6 +12,9 @@ bot.on("message", (msg) => {
     reply_markup: {
       inline_keyboard: keyboard,
     },
+    ￼
+   kurlatovd@gmail.com: Initial release
+   Today at 1:37 PM · v1
   });
 });
 
